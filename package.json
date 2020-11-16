@@ -81,7 +81,6 @@
     "vue-toggles": "^1.1.0",
     "vue-uuid": "^2.0.2",
     "vue-visual": "^2.4.0",
-    "vue2-leaflet": "^2.6.0",
-    "yarn": "^1.22.10"
+    "vue2-leaflet": "^2.6.0"
   }
 }
