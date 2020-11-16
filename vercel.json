@@ -4,7 +4,6 @@
       "env": {
         "SB_MANAGEMENT_SPACE_ID": "00000",
         "SB_MANAGEMENT_OAUTH_TOKEN": "XXXX",
-        "NODE_ENV": "production",
         "APP_ENV": "production"
       }
     },
